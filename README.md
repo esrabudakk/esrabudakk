@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I am a Ecole student 42!!
+- ⚡ I am a student of Ecole 42!!
 - 🔭 I’m currently working on C and C#
 - 🌱 I’m currently learning  C and unix
 - 👯 I’m looking to collaborate on C and C#
