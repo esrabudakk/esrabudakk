@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I am a student of Ecole 42!!
+- ⚡ I am a student developer studying in 42Istanbul
 - 🔭 I’m currently working on C and C#
 - 🌱 I’m currently learning  C and unix
 - 👯 I’m looking to collaborate on C and C#
