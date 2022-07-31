@@ -8,7 +8,7 @@
 
                                                                     My 42 Status 
 
-     [![ebudak's 42 stats](https://badge42.vercel.app/api/v2/cl40izrfs003609iaoqmzmhx2/stats?cursusId=21&coalitionId=207)](https://github.com/JaeSeoKim/badge42)
+    [![ebudak's 42 stats](https://badge42.vercel.app/api/v2/cl40izrfs003609iaoqmzmhx2/stats?cursusId=21&coalitionId=230)](https://github.com/JaeSeoKim/badge42)
 
                                                                     My Github Status
 
