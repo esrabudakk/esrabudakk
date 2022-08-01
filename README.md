@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on C and C#
 - 📫 How to reach me: https://www.linkedin.com/in/esra-budak-b61b1b201/
 
-                                                                   `047a18`*My 42 Status*`047a18`
-
+   `047a18`*My 42 Status*`047a18`
 
   #[![ebudak's 42 stats](https://badge42.vercel.app/api/v2/cl40izrfs003609iaoqmzmhx2/stats?cursusId=21&coalitionId=230)](https://github.com/JaeSeoKim/badge42)
 
