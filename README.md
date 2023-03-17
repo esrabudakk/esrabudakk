@@ -34,7 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esrabudakk&show_icons=true&locale=en" alt="esrabudakk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrabudakk&" alt="esrabudakk" /></p>
 
 #                                                                   My 42 Status
 
