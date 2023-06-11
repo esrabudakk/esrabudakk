@@ -1,9 +1,9 @@
 <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="1500" height="250" />
 
 <div>
-  <img align="left" src="/images/myAvatar.png" width="175" />
+<!--   <img align="left" src="/images/myAvatar.png" width="175" /> -->
   <h1 aling="center">Hello World! I am Esra.  </h1>
-  <h3 align="center">A passionate software developer from Turkey</h3>
+<!--   <h3 align="center">A passionate software developer from Turkey</h3> -->
   <br></br>
 </div>
 
